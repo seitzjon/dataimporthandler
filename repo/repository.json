@@ -9,11 +9,19 @@
         "artifacts": [
           {
             "url": "data-import-handler-9.2.1.jar",
-            "sig": "n55pNZzyIXng6PydHpzGUTcJQbfE1gVoZjhh3HjniMM7oRZmHasgOlqebu0hwTynexa2xo5VnOaBVsixRCEXGg=="
+            "sig": "p/p7aaecHXfapfyiXP6ji/ZreB57hfPbiFdH+7ctTsAdUnWzsTqMwnRP/BONlo/OOWaczXlipKEhjDtJxfI23A=="
           },
           {
             "url": "mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
@@ -60,11 +68,19 @@
         "artifacts": [
           {
             "url": "data-import-handler-9.0.0.jar",
-            "sig": "S93ouzm7QcKL9OfrcoQLAy75VVVYJvFy1I9lzIRAOcpPX34n/Sn4Jx7xkNx6vLoBBNZpQXvn8SbWT0g2oVfUhA=="
+            "sig": "MSd/wszf0DZ3RwPF4DqUIFzqaWJ4bmA2d7fG7XJafEiNnbXbxPWzEU/s5sTv60ps80BcARoNbEHpxKEJnJo2ZA=="
           },
           {
             "url": "mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
@@ -111,11 +127,19 @@
         "artifacts": [
           {
             "url": "data-import-handler-8.10.0.jar",
-            "sig": "ggich+cAREadydwCVHnf/HalMBVaYz9EIyqrBl1KUfcBQidsr5C9nbi0xVCH/foOTyPRzK66l7ImWQyayhz0NQ=="
+            "sig": "t11cpmhu/jKLybjMi282Hcki1e3yp7AI7Lm3VRKWBhxqe+kF6hFjQPbg8+yUmA9TOVasX9W1gs2K4lOkD3vMPA=="
           },
           {
             "url": "mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
@@ -162,11 +186,19 @@
         "artifacts": [
           {
             "url": "data-import-handler-8.6.0.jar",
-            "sig": "mH6VVyBu0TQ3oIDH01FSVHzI0lAPI7+Eu4TtdFtV+JtYfC7LFKRs0nyiWE1Gs2U/L9dXm5/At08jkG0CgASN2A=="
+            "sig": "R2SN/TKYfhj4CZtStJG60mFcDXOUxxfSCTRjGsWH0A5h3j1njHtkULCGA2EEcq+P8f61ZfteDsrnTMfeYyTO1w=="
           },
           {
             "url": "mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
@@ -217,7 +249,15 @@
           },
           {
             "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.3.0/mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
@@ -268,7 +308,15 @@
           },
           {
             "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.4.0/mariadb-java-client-2.6.0.jar",
-            "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+            "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
+          },
+          {
+            "url": "ojdbc8.jar",
+            "sig": "MROLKfDb+WPLsm5/Ffy/AIexTkqsY/dOPsNMcm3ePzqr388Ch0+8ZmFYiyjaoDvTQU98KnpbQk4znAASl9HIsA=="
+          },
+          {
+            "url": "ojdbc11.jar",
+            "sig": "pkI1vAEwnAQny60kLaJF2lo/30G2L9g4i9L4BptX0oEYFOp5tJWti8xREOekW1pWGU99mOJMHjGOmWlanN/G9w=="
           }
         ],
         "manifest": {
