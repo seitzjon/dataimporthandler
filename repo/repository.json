@@ -245,10 +245,10 @@
         "artifacts": [
           {
             "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.3.0/data-import-handler-9.3.0.jar",
-            "sig": "qDwa9rdEp6a1tWMgJaVnuni7eU20/M3oudpnD+ttPpV/ydfE+1/5cT5tSJAgRjNUABG8LxPOqcACFY6so32rkQ=="
+            "sig": "regrPWiMFRwBw68yRu9WWBjvmZPq4TTHM6r5r1gFw9HBtW+as62jUiX4JggQc2beD8109eKfaYLeZBcOc3/D2g=="
           },
           {
-            "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.3.0/mariadb-java-client-2.6.0.jar",
+            "url": "mariadb-java-client-2.6.0.jar",
             "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
           },
           {
@@ -304,10 +304,10 @@
         "artifacts": [
           {
             "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.4.0/data-import-handler-9.4.0.jar",
-            "sig": "ZKVGJDM2/KlZY8eN2Et52/ybH4iMCsnmJLO6Nk3i5M1gwlyzGecMT9l/shUxYhzM0BNpPkEE/gS1iVtE4hr74Q=="
+            "sig": "tdAq0FNXiD7ZDPiceZ37zpfn10qmfxTJAoA8mjcLGfeI5e9cleybmI0tpklUUxFhreZPl4P7oLYljM7tmHcGwQ=="
           },
           {
-            "url": "https://github.com/SearchScale/dataimporthandler/releases/download/v9.4.0/mariadb-java-client-2.6.0.jar",
+            "url": "mariadb-java-client-2.6.0.jar",
             "sig": "urKmkd0lKdlpIvvGuUKmOu+B5Gu6e4h6eDTKEE5Y/DkE5S8NJIR6cFz9JTGe51DlgggJ+GF+9pg7kwVq1zBFrQ=="
           },
           {
